@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgimg1"
+
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to our application"
+        android:textColor="@color/light_green"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+<!--    14:15:11: Executing 'signingReport'...-->
+
+<!--    Executing tasks: [signingReport] in project C:\Users\Acer\AndroidStudioProjects\SignupLoginFirebase1-->
+
+
+<!--    > Task :app:signingReport-->
+<!--    Variant: debug-->
+<!--    Config: debug-->
+<!--    Store: C:\Users\Acer\.android\debug.keystore-->
+<!--    Alias: AndroidDebugKey-->
+<!--    MD5: 5C:1D:00:88:EA:38:6F:DA:C0:6B:34:AA:C4:48:50:37-->
+<!--    SHA1: CC:75:F4:EC:29:8A:6C:00:23:27:DF:33:46:57:A7:63:05:02:47:EC-->
+<!--    SHA-256: 8A:DD:A3:E9:59:BA:1D:AB:7C:18:32:C1:D9:6F:11:BE:68:E0:1B:FC:DE:B6:34:6E:03:28:F8:B6:18:6F:B1:D1-->
+<!--    Valid until: Wednesday, 13 August, 2053-->
+<!--    &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-->
+<!--    Variant: release-->
+<!--    Config: null-->
+<!--    Store: null-->
+<!--    Alias: null-->
+<!--    &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-->
+<!--    Variant: debugAndroidTest-->
+<!--    Config: debug-->
+<!--    Store: C:\Users\Acer\.android\debug.keystore-->
+<!--    Alias: AndroidDebugKey-->
+<!--    MD5: 5C:1D:00:88:EA:38:6F:DA:C0:6B:34:AA:C4:48:50:37-->
+<!--    SHA1: CC:75:F4:EC:29:8A:6C:00:23:27:DF:33:46:57:A7:63:05:02:47:EC-->
+<!--    SHA-256: 8A:DD:A3:E9:59:BA:1D:AB:7C:18:32:C1:D9:6F:11:BE:68:E0:1B:FC:DE:B6:34:6E:03:28:F8:B6:18:6F:B1:D1-->
+<!--    Valid until: Wednesday, 13 August, 2053-->
+<!--    &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-->
+
+<!--    BUILD SUCCESSFUL in 3s-->
+<!--    1 actionable task: 1 executed-->
